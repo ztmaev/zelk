@@ -100,11 +100,11 @@
   --button-background-hover: #354249;
   --button-background-active: #4d5f68;
   --button-accent: var(--accent-color);
-  --button-accent-hover: #d2f3ff;
-  --button-accent-active: #8dd4f8;
-  --button-destructive: #fb7c7c;
+  --button-accent-hover: #fff700;
+  --button-accent-active: #00ff22;
+  --button-destructive: #4c00ff;
   --button-destructive-hover: #ff929b;
-  --button-destructive-active: #fa4a4a;
+  --button-destructive-active: #ff0000;
 }
 .theme-light {
   /* background */
