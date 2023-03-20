@@ -73,6 +73,7 @@
   --background-modifier-hover: #262e33;
   --background-modifier-active: #495a63;
   --background-modifier-selected: var(--accent-color);
+  
   /* text */
   --text-normal: var(--accent-color);
   --text-positive: var(--text-normal);
