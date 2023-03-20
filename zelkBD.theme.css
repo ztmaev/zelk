@@ -82,7 +82,7 @@
   --text-link: #edf8fe;
   --interactive-selected: var(--background-primary);
   --interactive-active: var(--text-normal);
-  --interactive-normal: var(--text-normal);
+  --interactive-normal: #191919;
   --interactive-muted: var(--button-background-active);
   --channels-default: var(--text-muted);
   --header-primary: var(--text-normal);
