@@ -76,7 +76,7 @@
   --background-modifier-accent: transparent;
   --background-message-hover: transparent;
   /* text */
-  --text-normal: var(--accent-color);
+  --text-normal: purple;
   --text-positive: var(--text-normal);
   --text-muted: #6d8692;
   --text-link: #edf8fe;
@@ -101,7 +101,7 @@
   --button-background-active: #4d5f68;
   --button-accent: var(--accent-color);
   --button-accent-hover: #d2f3ff;
-  --button-accent-active: #4c11b9;
+  --button-accent-active: #8dd4f8;
   --button-destructive: #fb7c7c;
   --button-destructive-hover: #ff929b;
   --button-destructive-active: #fa4a4a;
