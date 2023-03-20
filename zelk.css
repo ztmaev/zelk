@@ -65,6 +65,7 @@
   --background-modifier-active: #495a63;
   --background-modifier-selected: var(--accent-color);
   --background-modifier-accent: transparent;
+  --background-message: black;
   --background-message-hover: transparent;
   /* text */
   --text-normal: var(--accent-color);
