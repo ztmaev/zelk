@@ -69,8 +69,6 @@
   --background-floating: var(--background-1);
   --background-mentioned: #bde6fb10;
   --background-mentioned-hover: #bde6fb15;
-  --background-floating:  var(--background-1);
-  --modal-background: var(--background-1);
   /* modifiers */
   --background-modifier-hover: #262e33;
   --background-modifier-active: #495a63;
