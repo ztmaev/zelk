@@ -82,7 +82,7 @@
   --text-link: #edf8fe;
   --interactive-selected: var(--background-primary);
   --interactive-active: var(--text-normal);
-  --interactive-normal: #191919;
+  --interactive-normal: var(--text-normal);
   --interactive-muted: var(--button-background-active);
   --channels-default: var(--text-muted);
   --header-primary: var(--text-normal);
@@ -99,12 +99,12 @@
   --button-background: #2a3439;
   --button-background-hover: #354249;
   --button-background-active: #4d5f68;
-  --button-accent: var(--accent-color);
+  --button-accent: #ff00d0;
   --button-accent-hover: #d2f3ff;
-  --button-accent-active: #8dd4f8;
+  --button-accent-active: #ff0000;
   --button-destructive: #fb7c7c;
   --button-destructive-hover: #ff929b;
-  --button-destructive-active: #fa4a4a;
+  --button-destructive-active: #00d018;
 }
 .theme-light {
   /* background */
