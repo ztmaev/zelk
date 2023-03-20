@@ -71,8 +71,8 @@
   --background-mentioned-hover: #bde6fb15;
   /* modifiers */
   --background-modifier-hover: #262e33;
-  --background-modifier-active: #495a63;
-  --background-modifier-selected: var(--accent-color);
+  --background-modifier-active: #ff0000;
+  --background-modifier-selected: #ff6a00;
   --background-modifier-accent: transparent;
   --background-message-hover: transparent;
   /* text */
