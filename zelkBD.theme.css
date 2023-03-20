@@ -99,12 +99,12 @@
   --button-background: #2a3439;
   --button-background-hover: #354249;
   --button-background-active: #4d5f68;
-  --button-accent: #ff00d0;
+  --button-accent: var(--accent-color);
   --button-accent-hover: #d2f3ff;
-  --button-accent-active: #ff0000;
+  --button-accent-active: #8dd4f8;
   --button-destructive: #fb7c7c;
   --button-destructive-hover: #ff929b;
-  --button-destructive-active: #00d018;
+  --button-destructive-active: #fa4a4a;
 }
 .theme-light {
   /* background */
@@ -166,4 +166,3 @@
 .root-8LYsGj[style*="--user-background"] .banner-1YaD3N {
   height: 240px;
 }
-/**/
